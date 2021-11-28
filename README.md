@@ -6,6 +6,7 @@ AcadX is an online learning platform that supplements class-room learnings from 
 It contains all the features a student or teacher will optate for their learning and evaluation of the understanding of the subject. This app endeavours to involve every feature for the assignment submission and the corresponding evaluation by the teachers. It even consists of a scheduler to facilitate students and teachers in scheduling their classes either in virtual or in-person mode.
 
 # GOALS
+
 # Scheduler: 
 This feature allows students to submit weekly preferences for attending class in-person or remotely. The tool then assigns available seats to students who want to physically attend class and provides the faculty with a roster of who has been cleared to attend. 
 # Submission tool:
