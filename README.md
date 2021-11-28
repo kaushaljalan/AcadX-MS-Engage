@@ -72,7 +72,7 @@ Students can see the pending assignment on their dashboard and in their assignme
 
 Teachers, after getting the submissions, can grade them with marks after reading the answers and the attached documents as well.
 
-# Screenshots
+## Screenshots
 
 Design Diagrams can be found here: https://drive.google.com/file/d/1U8RctqnDBPsOGJwZWdE_F2S7RcpYC93v/view?usp=sharing
 
@@ -88,3 +88,5 @@ Weekly Preferences:
 Assignments:
 
 ![Screenshot (387)](https://user-images.githubusercontent.com/47274860/143727444-cc5c6b61-2c04-45cf-b247-0c943266a86b.png)
+
+
