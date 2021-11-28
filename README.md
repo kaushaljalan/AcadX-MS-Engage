@@ -89,13 +89,36 @@ Assignments:
 
 ![Screenshot (387)](https://user-images.githubusercontent.com/47274860/143727444-cc5c6b61-2c04-45cf-b247-0c943266a86b.png)
 
-# Login Page and Creating a New User
+# Login Page and Creating a New User:
 
 ![Screenshot (411)](https://user-images.githubusercontent.com/47274860/143778485-16767f63-7ef4-46b8-aabc-c80f7142e852.png)
 
 ![Screenshot (412)](https://user-images.githubusercontent.com/47274860/143778489-de84b34f-a329-4fbc-8de3-1415a2ad700c.png)
 
 ![Screenshot (413)](https://user-images.githubusercontent.com/47274860/143778490-da01bf9e-bbd0-4503-bdba-29240b61cfcc.png)
+
+# Services Related to Teacher:
+
+![Screenshot (409)](https://user-images.githubusercontent.com/47274860/143778750-ee7ad30d-be65-4615-97a5-9d31f4edd101.png)
+
+![Screenshot (410)](https://user-images.githubusercontent.com/47274860/143778751-a2ab3e03-c3d8-4000-9e1f-7bfbc2bf03b8.png)
+
+![Screenshot (411)](https://user-images.githubusercontent.com/47274860/143778752-7531331b-0d47-4b95-b48b-1e6e2a0c57fd.png)
+
+![Screenshot (412)](https://user-images.githubusercontent.com/47274860/143778754-94bced33-99d1-404b-9956-e19573bd1a21.png)
+
+![Screenshot (413)](https://user-images.githubusercontent.com/47274860/143778755-66148415-3ff4-416d-8e0e-9f65652adc12.png)
+
+![Screenshot (414)](https://user-images.githubusercontent.com/47274860/143778757-2d00eed3-a390-4253-8cae-e8216e321905.png)
+
+![Screenshot (415)](https://user-images.githubusercontent.com/47274860/143778759-deccfbf7-77cf-45f7-9437-a88d1a3053ae.png)
+
+![Screenshot (416)](https://user-images.githubusercontent.com/47274860/143778761-aca58558-4eb2-4390-920b-527b49c2fe34.png)
+
+![Screenshot (417)](https://user-images.githubusercontent.com/47274860/143778762-7d15864a-7642-463e-a24c-27c9a03d0278.png)
+
+![Screenshot (418)](https://user-images.githubusercontent.com/47274860/143778763-647f12b4-9c48-4482-bd21-c18462a63c2f.png)
+
 
 
 
